@@ -143,3 +143,7 @@ The query embedding is matched against cached plan embeddings using cosine simil
 
 ### 4. Plan Adaptation
 The small planner adapts cached templates for new but similar queries.
+
+## License
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute this software with proper attribution.
