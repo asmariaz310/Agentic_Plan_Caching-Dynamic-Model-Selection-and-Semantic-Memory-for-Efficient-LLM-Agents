@@ -1,0 +1,119 @@
+{
+  "total_queries": 12,
+  "cache_hit_rate": 0.5833333333333334,
+  "first_run_cache_hits": 2,
+  "second_run_cache_hits": 5,
+  "fallback_rate": 0.0,
+  "accuracy": 1.0,
+  "avg_latency": 0.9036920666694641,
+  "results": [
+    {
+      "run": 1,
+      "id": 1,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 2.407515287399292,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 2,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 1.6708142757415771,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 3,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.341327428817749,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 4,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 4.986217498779297,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 5,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.24055099487304688,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 6,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 0.0,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 1,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.42804574966430664,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 2,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.20026493072509766,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 3,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.1312246322631836,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 4,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.13459992408752441,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 5,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.3037440776824951,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 6,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 0.0,
+      "is_correct": true,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,579 @@
+{
+  "AIME": {
+    "total_queries": 12,
+    "cache_hit_rate": 0.5,
+    "first_run_cache_hits": 2,
+    "second_run_cache_hits": 4,
+    "fallback_rate": 0.0,
+    "accuracy": 0.8333333333333334,
+    "avg_latency": 0.8072505593299866,
+    "results": [
+      {
+        "run": 1,
+        "id": 1,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 0.47967982292175293,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 2,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 1.5644466876983643,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 3,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.6136457920074463,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 4,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 0.19690346717834473,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 5,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 1.6968472003936768,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 6,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.6278648376464844,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 1,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 0.15988636016845703,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 2,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.18755078315734863,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 3,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 1.7288832664489746,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 4,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 0.19369220733642578,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 5,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.9757766723632812,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 6,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 1.2618296146392822,
+        "is_correct": false,
+        "error": null
+      }
+    ]
+  },
+  "FinanceBench": {
+    "total_queries": 12,
+    "cache_hit_rate": 1.0,
+    "first_run_cache_hits": 12,
+    "second_run_cache_hits": 0,
+    "fallback_rate": 0,
+    "accuracy": 0.5,
+    "avg_latency": 0.001969456672668457,
+    "results": [
+      {
+        "run": 1,
+        "id": 1,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.023633480072021484,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 2,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 3,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 4,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 5,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 6,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 1,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 2,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 3,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 4,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 5,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 6,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": false,
+        "error": null
+      }
+    ]
+  },
+  "GAIA": {
+    "total_queries": 12,
+    "cache_hit_rate": 0.5833333333333334,
+    "first_run_cache_hits": 2,
+    "second_run_cache_hits": 5,
+    "fallback_rate": 0.0,
+    "accuracy": 1.0,
+    "avg_latency": 0.9036920666694641,
+    "results": [
+      {
+        "run": 1,
+        "id": 1,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 2.407515287399292,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 2,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 1.6708142757415771,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 3,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.341327428817749,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 4,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 4.986217498779297,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 5,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.24055099487304688,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 6,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 1,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.42804574966430664,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 2,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.20026493072509766,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 3,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.1312246322631836,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 4,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.13459992408752441,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 5,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.3037440776824951,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 6,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 0.0,
+        "is_correct": true,
+        "error": null
+      }
+    ]
+  },
+  "QASPER": {
+    "total_queries": 10,
+    "cache_hit_rate": 0.1,
+    "first_run_cache_hits": 0,
+    "second_run_cache_hits": 1,
+    "fallback_rate": 0.0,
+    "accuracy": 0.1,
+    "avg_latency": 3.2454596281051638,
+    "results": [
+      {
+        "run": 1,
+        "id": 1,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 1.2760918140411377,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 2,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 1.8179266452789307,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 3,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 3.8341848850250244,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 4,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 7.467890739440918,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 5,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 3.0688650608062744,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 1,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 2.7389485836029053,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 2,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 3.8926022052764893,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 3,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 3.8784914016723633,
+        "is_correct": false,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 4,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.43865537643432617,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 5,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 4.040939569473267,
+        "is_correct": false,
+        "error": null
+      }
+    ]
+  },
+  "TabMWP": {
+    "total_queries": 12,
+    "cache_hit_rate": 0.75,
+    "first_run_cache_hits": 3,
+    "second_run_cache_hits": 6,
+    "fallback_rate": 0.0,
+    "accuracy": 1.0,
+    "avg_latency": 1.2209548751513164,
+    "results": [
+      {
+        "run": 1,
+        "id": 1,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 1.3464725017547607,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 2,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 2.06624698638916,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 3,
+        "cache_hit": false,
+        "fallback": false,
+        "latency": 8.415714025497437,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 4,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.4184269905090332,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 5,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.23467040061950684,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 1,
+        "id": 6,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.17668819427490234,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 1,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.2585742473602295,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 2,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.4650280475616455,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 3,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.2737703323364258,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 4,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.595465898513794,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 5,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.20293903350830078,
+        "is_correct": true,
+        "error": null
+      },
+      {
+        "run": 2,
+        "id": 6,
+        "cache_hit": true,
+        "fallback": false,
+        "latency": 0.19746184349060059,
+        "is_correct": true,
+        "error": null
+      }
+    ]
+  }
+}

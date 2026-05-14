@@ -1,0 +1,47 @@
+{
+  "total_queries": 4,
+  "cache_hit_rate": 0.0,
+  "first_run_cache_hits": 0,
+  "second_run_cache_hits": 0,
+  "fallback_rate": 0.0,
+  "accuracy": 1.0,
+  "avg_latency": 0.0002487301826477051,
+  "results": [
+    {
+      "run": 1,
+      "id": 1,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 0.0,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 2,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 0.0,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 1,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 0.0009949207305908203,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 2,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 0.0,
+      "is_correct": true,
+      "error": null
+    }
+  ]
+}

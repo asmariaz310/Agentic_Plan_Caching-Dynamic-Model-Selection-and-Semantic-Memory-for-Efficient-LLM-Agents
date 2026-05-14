@@ -1,0 +1,101 @@
+{
+  "total_queries": 10,
+  "cache_hit_rate": 0.1,
+  "first_run_cache_hits": 0,
+  "second_run_cache_hits": 1,
+  "fallback_rate": 0.0,
+  "accuracy": 0.1,
+  "avg_latency": 3.2454596281051638,
+  "results": [
+    {
+      "run": 1,
+      "id": 1,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 1.2760918140411377,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 2,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 1.8179266452789307,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 3,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 3.8341848850250244,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 4,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 7.467890739440918,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 1,
+      "id": 5,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 3.0688650608062744,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 1,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 2.7389485836029053,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 2,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 3.8926022052764893,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 3,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 3.8784914016723633,
+      "is_correct": false,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 4,
+      "cache_hit": true,
+      "fallback": false,
+      "latency": 0.43865537643432617,
+      "is_correct": true,
+      "error": null
+    },
+    {
+      "run": 2,
+      "id": 5,
+      "cache_hit": false,
+      "fallback": false,
+      "latency": 4.040939569473267,
+      "is_correct": false,
+      "error": null
+    }
+  ]
+}
